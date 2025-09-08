@@ -1,0 +1,12 @@
+{
+  "name": "builder-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "next dev"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "next": "^13.0.0"
+  }
+}
